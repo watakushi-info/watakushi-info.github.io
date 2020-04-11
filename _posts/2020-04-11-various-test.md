@@ -13,4 +13,5 @@ githubの機能も使って、機能追加とかもプロジェクトとして�
 しばらくはいろいろお試しをしながら、ちょっとずつでも変化させていけたらなーって思ってますー。るんるん。
 
 [Githubアカウント][1]
-[1]:https://github.com/watakushi-info/watakushi-info.github.io
+
+[1]: https://github.com/watakushi-info/watakushi-info.github.io
