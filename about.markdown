@@ -10,3 +10,5 @@ blosxom的なJekyllを使い始めてみているテストですー。
 （予定してた時期がすごく忙しくてちゃんとできなかったのでごめんなさい）
 
 20/04/11 山田相子
+
+![山田相子]({{site.baseurl}}/assets/i/yamada_mini.png)
