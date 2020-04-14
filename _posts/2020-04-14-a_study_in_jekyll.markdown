@@ -19,3 +19,8 @@ Githubでいろいろ更新してるとことか、見えるようにしてい�
 [https://pinboard.in/u:watakushi/public](https://pinboard.in/u:watakushi/public)
 
 とてもシンプルなブックマークサイトなので、このサイトをうまく使って昔ながらの個人ニュースサイト機能も作っておきたいと思ってますー。
+
+RSSでのアクセスだと以下からいけますー。毎日少しずつ面白いなーって思ったサイトをここで紹介していきますねー。キラン。
+スマホだとReederとかで見られるのも良いかもしれないですっ。
+
+[https://feeds.pinboard.in/rss/u:watakushi/](https://feeds.pinboard.in/rss/u:watakushi/)
