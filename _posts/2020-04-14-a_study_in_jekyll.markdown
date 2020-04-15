@@ -24,3 +24,5 @@ RSSでのアクセスだと以下からいけますー。毎日少しずつ面�
 スマホだとReederとかで見られるのも良いかもしれないですっ。
 
 [https://feeds.pinboard.in/rss/u:watakushi/](https://feeds.pinboard.in/rss/u:watakushi/)
+
+それぞれの機能についてトップページからいけるようにしないとですー。むむむ。
